@@ -1,6 +1,9 @@
 
 # 🧠📚 Job InterviewGuide Workshop
 
+Jasper Lim 
+9117038
+
 ## 🎯 Workshop Objectives
 This workshop helps students **prepare for a Junior Data Scientist job interview** by combining **machine learning review** with **AI-driven self-assessment**.  
 Participants will experience a mock interview guided by a large language model (LLM), complete a technical quiz, and generate a personalized Jupyter Notebook to reinforce their weak areas.
